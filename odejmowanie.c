@@ -8,5 +8,5 @@ void odejmowanie()
     printf("Podaj swoja liczbe: ");
     scanf("%d", &b);
     int sum = a - b;
-    printf("Po odjęciu liczby %d od %d otrzymujemy %d", a, b, sum);
+    printf("Po odjeciu liczby %d od %d otrzymujemy %d", a, b, sum);
 }
