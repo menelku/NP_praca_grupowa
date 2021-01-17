@@ -7,6 +7,6 @@ void dodawanie()
     scanf("%d", &a);
     printf("Podaj swoja liczbe: ");
     scanf("%d", &b);
-    int sum = a + b;
-    printf("Po dodaniu liczb: %d i %d otrzymujemy %d", a, b, sum);
+    int suma = a + b;
+    printf("Po dodaniu liczb: %d i %d otrzymujemy %d", a, b, suma);
 }
