@@ -4,7 +4,7 @@
 int main()
 {
     int a;
-    printf("Wybierz co chcesz zrobic\n1. Hello world!\n2.Dodawanie\n3. Odejmowanie\n4.\n");
+    printf("Wybierz co chcesz zrobic\n1. Hello World!\n2.Dodawanie\n3. Odejmowanie\n4.\n");
     scanf("%d", &a);
     switch (a)
     {
