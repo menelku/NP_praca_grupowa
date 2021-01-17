@@ -1,2 +1,2 @@
 # NP_praca_grupowa
- Bardzo prosty programik
+ Bardzo prosty programik robiony na narzędzie programistyczne UTP 2020
