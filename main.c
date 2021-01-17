@@ -9,7 +9,7 @@ int main()
     switch (a)
     {
     case 1:
-
+        printf("Hello World! :)");
         break;
 
     case 2:
