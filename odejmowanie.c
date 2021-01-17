@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void dodawanie(int a, int b)
+void odejmowanie()
 {
     int a, b;
     printf("Podaj swoja liczbe: ");
