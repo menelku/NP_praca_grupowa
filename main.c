@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Wybierz co chcesz zrobić");
+    printf("Wybierz co chcesz zrobic");
     switch (expression)
     {
     case 1:
