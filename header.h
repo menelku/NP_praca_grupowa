@@ -3,3 +3,4 @@
 
 void dodawanie();
 void odejmowanie();
+
