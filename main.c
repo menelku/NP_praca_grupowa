@@ -2,6 +2,6 @@
 
 int main()
 {
-
+:DDD
     return 0;
 }
