@@ -1,4 +1,5 @@
 #include "dodawanie.c"
 #include "odejmowanie.c"
 
-void dodawanie(int a, int b);
+void dodawanie();
+void odejmowanie();
