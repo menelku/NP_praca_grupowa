@@ -13,10 +13,12 @@ int main()
         break;
 
     case 2:
+        printf("Funkcja dodawania: ");
         dodawanie();
         break;
 
     case 3:
+        printf("Funkcja odejmowania: ");
         odejmowanie();
         break;
 
